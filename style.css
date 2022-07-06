@@ -2,10 +2,17 @@ body {
     font-family: 'Kaisei Tokumin', serif;
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 40px;
 }
 
 .top-section {
     display: flex;
+    margin-bottom: 50px;
 }
 
 .skip {
@@ -48,4 +55,69 @@ body {
     border-radius: 50px;
     padding: 15px 30px;
     text-decoration: none;
+    font-weight: 700;
+}
+
+.about-section {
+    display: flex;
+    background-color: pink;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+
+}
+
+.about-detail {
+    width: 50%;
+    margin-top: 75px;
+}
+
+.about-detail p {
+    width: 355px;
+    font-size: 20px;
+    margin-bottom: 55px;
+}
+
+.about-img {
+    width: 50%;
+
+}
+
+.about-img img {
+    width: 40%;
+    padding-top: 40px;
+    padding-left: 200px;
+}
+
+.myrecipies-section {
+    margin-bottom: 100px;
+}
+
+.top-recipies {
+    text-align: center;
+    color: grey;
+}
+
+.top-recipies p {
+    width: 500px;
+    margin-left: 400px;
+}
+
+.recipies-title {
+    display: flex;
+
+}
+
+.recipies-item {
+    width: 50%;
+    box-shadow: 10px 10px 40px grey;
+    padding: 71px;
+    margin: 40px;
+    border-radius: 50px;
+    padding-bottom: 20px;
+}
+
+
+.recipies-item img {
+    width: 100%;
 }
