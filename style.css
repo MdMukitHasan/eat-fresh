@@ -37,16 +37,11 @@ h1 {
     width: 400px;
     color: gray;
     font-size: 20px;
+    margin-bottom: 55px;
 }
 
 .top-item-right img {
     width: 80%;
-}
-
-.top-item-left p {
-    color: gray;
-    margin-bottom: 55px;
-
 }
 
 .order-button {
@@ -69,7 +64,7 @@ h1 {
 
 .about-detail {
     width: 50%;
-    margin-top: 75px;
+    padding-top: 75px;
 }
 
 .about-detail p {
@@ -100,7 +95,7 @@ h1 {
 
 .top-recipies p {
     width: 500px;
-    margin-left: 400px;
+    padding-left: 400px;
 }
 
 .recipies-title {
@@ -130,7 +125,7 @@ h1 {
 }
 
 .popular {
-    width: 100%;
+    width: 33.33%;
     padding-left: 150px;
 
 }
