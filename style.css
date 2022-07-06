@@ -121,3 +121,16 @@ h1 {
 .recipies-item img {
     width: 100%;
 }
+
+.count {
+    display: flex;
+    box-shadow: 10px 10px 40px grey;
+    margin: 50px;
+    border-radius: 15px;
+}
+
+.popular {
+    width: 100%;
+    padding-left: 150px;
+
+}
