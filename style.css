@@ -134,3 +134,22 @@ h1 {
     padding-left: 150px;
 
 }
+
+footer {
+    background-color: rgb(34, 26, 26);
+}
+
+.footer-section {
+    color: white;
+    text-align: center;
+    padding: 40px 0;
+}
+
+.orange {
+    color: orange;
+    padding-right: 15px;
+}
+
+.gray {
+    color: gray;
+}
